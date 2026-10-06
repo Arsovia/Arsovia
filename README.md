@@ -1,47 +1,41 @@
 <div align="center">
 
+<br>
+
 # Elaris
 
-<br>
+### Arsovia
 
-**Arsovia**
+<br><br>
+
+**探索想法，创造作品。**
+
+<br><br>
+
+把复杂的事情  
+变得简单。
 
 <br><br><br>
-
-### Ideas.
-### Designed simply.
-
-<br><br><br>
-
-</div>
 
 ---
 
 <br>
 
-## Explore
+### 关于我
 
-Things worth understanding.
+<br>
 
-<br><br>
-
-## Create
-
-Things worth building.
+喜欢探索新事物，  
+喜欢设计，也喜欢创造。
 
 <br><br>
-
-## Refine
-
-Until nothing unnecessary remains.
-
-<br><br><br>
 
 ---
 
-<div align="center">
+<br>
 
+**简单 · 专注 · 创造**
 
-**Simple. Thoughtful.**
+<br><br><br>
 
 </div>
