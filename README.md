@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Arsovia/Arsovia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Elaris
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Arsovia**
+
+<br><br><br>
+
+### Ideas.
+### Designed simply.
+
+<br><br><br>
+
+</div>
+
+---
+
+<br>
+
+## Explore
+
+Things worth understanding.
+
+<br><br>
+
+## Create
+
+Things worth building.
+
+<br><br>
+
+## Refine
+
+Until nothing unnecessary remains.
+
+<br><br><br>
+
+---
+
+<div align="center">
+
+### Arsovia
+
+**Simple. Thoughtful.**
+
+</div>
