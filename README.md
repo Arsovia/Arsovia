@@ -41,7 +41,6 @@ Until nothing unnecessary remains.
 
 <div align="center">
 
-### Arsovia
 
 **Simple. Thoughtful.**
 
