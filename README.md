@@ -2,12 +2,6 @@
 
 <br>
 
-# Elaris
-
-### Arsovia
-
-<br><br>
-
 **探索想法，创造作品。**
 
 <br><br>
